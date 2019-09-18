@@ -2,14 +2,6 @@ For details:
 
 
 
-\   \   \\\
-\  \    \  \ 
-\ \     \ \
-\\      \\
-\\      \\
-\  \    \  \
-\   \   \   \  
-
 
 
 # flutter-realtime-image-classification
