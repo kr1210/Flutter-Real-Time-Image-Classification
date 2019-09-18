@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\flutter app v1\\flutter_realtime_detection-master\\build\\firebase_face_contour\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "C:\\Users\\krishna raj\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\4c72ab3f838564c645bf282d19343f49\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\flutter app v1\\flutter_realtime_detection-master\\build\\firebase_face_contour\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "C:\\Users\\krishna raj\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\4c72ab3f838564c645bf282d19343f49\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\flutter app v1\\flutter_realtime_detection-master\\build\\firebase_face_contour\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "C:\\Users\\krishna raj\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\4c72ab3f838564c645bf282d19343f49\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\flutter app v1\\flutter_realtime_detection-master\\build\\firebase_face_contour\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "C:\\Users\\krishna raj\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\4c72ab3f838564c645bf282d19343f49\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\flutter app v1\\flutter_realtime_detection-master\\build\\firebase_face_contour\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png",
+        "source": "C:\\Users\\krishna raj\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\4c72ab3f838564c645bf282d19343f49\\res\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "C:\\flutter app v1\\flutter_realtime_detection-master\\build\\firebase_face_contour\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\googleg_standard_color_18.png",
+        "source": "C:\\Users\\krishna raj\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\4c72ab3f838564c645bf282d19343f49\\res\\drawable-xxhdpi-v4\\googleg_standard_color_18.png"
+    }
+]

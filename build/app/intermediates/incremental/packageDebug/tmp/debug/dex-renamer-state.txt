@@ -1,0 +1,19 @@
+#Tue Sep 17 23:29:57 IST 2019
+path.1=classes.dex
+path.0=classes.dex
+renamed.5=classes6.dex
+renamed.4=classes5.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.5=/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/transforms/dexMerger/debug/5
+base.4=/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/transforms/dexMerger/debug/2
+base.3=/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/transforms/dexMerger/debug/3
+base.2=/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/transforms/dexMerger/debug/0
+base.1=/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/transforms/dexMerger/debug/1
+base.0=/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/transforms/dexMerger/debug/4
+path.5=classes.dex
+path.4=classes.dex
+path.3=classes.dex
+path.2=classes.dex

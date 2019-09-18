@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\flutter app v1\\flutter_realtime_detection-master\\build\\firebase_face_contour\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\krishna raj\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\4c72ab3f838564c645bf282d19343f49\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "C:\\flutter app v1\\flutter_realtime_detection-master\\build\\firebase_face_contour\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\krishna raj\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\4c72ab3f838564c645bf282d19343f49\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\flutter app v1\\flutter_realtime_detection-master\\build\\firebase_face_contour\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\krishna raj\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\4c72ab3f838564c645bf282d19343f49\\res\\color\\common_google_signin_btn_text_dark.xml"
+    }
+]

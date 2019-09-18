@@ -1,0 +1,754 @@
+[
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_plus_signin_btn_text_light_pressed.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xxhdpi-v4/common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_light_normal.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xhdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_dark_pressed.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_plus_signin_btn_text_dark_normal.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_common_plus_signin_btn_text_dark_pressed.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-mdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_text_light_pressed.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-hdpi-v4/common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_common_plus_signin_btn_icon_dark_normal.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_plus_signin_btn_icon_light_focused.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_common_plus_signin_btn_text_light_focused.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-hdpi-v4/common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_common_plus_signin_btn_text_dark_focused.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xhdpi-v4/common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-tvdpi-v4_common_plus_signin_btn_icon_dark_focused.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-tvdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_light_disabled.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_dark_disabled.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_common_plus_signin_btn_text_light_normal.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-mdpi-v4/common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_dark_focused.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/color_common_plus_signin_btn_text_light.xml.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/color/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_light_focused.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_dark_pressed.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_text_dark_focused.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_common_plus_signin_btn_icon_light_focused.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xhdpi-v4/common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_text_dark_pressed.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_common_ic_googleplayservices.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-hdpi-v4/common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_light_pressed.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_text_light_normal.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_common_plus_signin_btn_icon_light_pressed.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-hdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_dark_pressed.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_pressed.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_common_plus_signin_btn_icon_dark_disabled.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_icon_dark_pressed.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_common_plus_signin_btn_icon_dark_focused.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-tvdpi-v4_common_google_signin_btn_icon_light_focused.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-tvdpi-v4/common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_common_ic_googleplayservices.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xhdpi-v4/common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_light_disabled.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_light_focused.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_common_plus_signin_btn_text_light_disabled.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-hdpi-v4/common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_common_plus_signin_btn_icon_dark_disabled.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable_common_plus_signin_btn_text_dark.xml.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_icon_light_pressed.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-tvdpi-v4_common_plus_signin_btn_text_light_pressed.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-tvdpi-v4/common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_light_focused.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable_common_plus_signin_btn_icon_light.xml.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable/common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-hdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_icon_dark_disabled.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_plus_signin_btn_icon_dark_normal.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_text_dark_normal.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_common_plus_signin_btn_icon_dark_focused.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xhdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_dark_pressed.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_icon_light_focused.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_common_plus_signin_btn_icon_dark_pressed.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xhdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-tvdpi-v4_common_google_signin_btn_text_dark_pressed.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-tvdpi-v4/common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_icon_light_disabled.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_common_plus_signin_btn_text_light_normal.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-hdpi-v4/common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/color_common_google_signin_btn_text_light.xml.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_common_plus_signin_btn_text_dark_disabled.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-mdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_text_light_disabled.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-mdpi-v4/common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_text_light_normal.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_common_plus_signin_btn_icon_light_focused.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-mdpi-v4/common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_common_plus_signin_btn_text_light_focused.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-mdpi-v4/common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_light_pressed.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-tvdpi-v4_common_plus_signin_btn_icon_light_disabled.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-tvdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_plus_signin_btn_text_dark_pressed.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_light_pressed.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-tvdpi-v4_common_plus_signin_btn_icon_light_pressed.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-tvdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-tvdpi-v4_common_plus_signin_btn_icon_light_normal.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-tvdpi-v4/common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-tvdpi-v4_common_google_signin_btn_icon_light_pressed.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-tvdpi-v4/common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-tvdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-tvdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_plus_signin_btn_icon_dark_pressed.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_common_plus_signin_btn_icon_light_focused.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-hdpi-v4/common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xxhdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/color_common_google_signin_btn_text_dark.xml.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_dark_disabled.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-tvdpi-v4_common_google_signin_btn_text_light_pressed.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-tvdpi-v4/common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_dark_focused.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_dark.xml.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_common_plus_signin_btn_icon_light_normal.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-mdpi-v4/common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_light_disabled.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light.xml.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_focused.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_light_normal.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable_launch_background.xml.flat",
+        "source": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/android/app/src/main/res/drawable/launch_background.xml"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_common_plus_signin_btn_text_light_pressed.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xhdpi-v4/common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_light_disabled.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_common_plus_signin_btn_icon_light_pressed.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xhdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-mdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_common_plus_signin_btn_text_light_disabled.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xhdpi-v4/common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_dark_disabled.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_text_light_pressed.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-mdpi-v4/common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-tvdpi-v4_common_google_signin_btn_icon_dark_disabled.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-tvdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_plus_signin_btn_text_dark_focused.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/color_common_plus_signin_btn_text_dark.xml.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/color/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_common_plus_signin_btn_icon_light_normal.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-hdpi-v4/common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_common_plus_signin_btn_text_light_focused.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xhdpi-v4/common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_dark_disabled.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_text_dark_normal.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_light_focused.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light.xml.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-ldpi-v4_common_ic_googleplayservices.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-ldpi-v4/common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_plus_signin_btn_icon_dark_disabled.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_plus_signin_btn_icon_light_pressed.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-tvdpi-v4_common_plus_signin_btn_text_light_normal.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-tvdpi-v4/common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_dark_focused.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_common_plus_signin_btn_icon_light_pressed.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-mdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-tvdpi-v4_common_google_signin_btn_icon_dark_pressed.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-tvdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_text_light_focused.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-hdpi-v4/common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_icon_light_focused.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_plus_signin_btn_text_light_focused.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xxhdpi-v4/common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_common_plus_signin_btn_icon_light_disabled.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xhdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_common_plus_signin_btn_text_light_normal.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xhdpi-v4/common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_common_plus_signin_btn_icon_dark_focused.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_plus_signin_btn_icon_light_normal.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-tvdpi-v4_common_plus_signin_btn_text_light_disabled.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-tvdpi-v4/common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-tvdpi-v4_common_plus_signin_btn_text_dark_pressed.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-tvdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_text_dark_disabled.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_common_plus_signin_btn_text_light_pressed.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-hdpi-v4/common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_common_ic_googleplayservices.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-mdpi-v4/common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_common_plus_signin_btn_text_dark_pressed.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xhdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-tvdpi-v4_common_google_signin_btn_text_dark_focused.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-tvdpi-v4/common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_icon_light_disabled.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-tvdpi-v4_common_plus_signin_btn_text_light_focused.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-tvdpi-v4/common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_dark_focused.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_common_plus_signin_btn_text_dark_disabled.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-hdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_common_plus_signin_btn_text_dark_normal.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-mdpi-v4/common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable_common_plus_signin_btn_text_light.xml.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-tvdpi-v4_common_google_signin_btn_text_light_focused.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-tvdpi-v4/common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_common_plus_signin_btn_icon_light_disabled.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-hdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-tvdpi-v4_common_google_signin_btn_icon_light_normal.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-tvdpi-v4/common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_common_plus_signin_btn_text_dark_pressed.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-hdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-tvdpi-v4_common_google_signin_btn_text_light_normal.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-tvdpi-v4/common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_text_light_disabled.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-hdpi-v4/common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_common_plus_signin_btn_icon_dark_pressed.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_light_normal.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_text_dark_focused.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_icon_dark_focused.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable_common_plus_signin_btn_icon_dark.xml.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable/common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-tvdpi-v4_common_plus_signin_btn_icon_light_focused.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-tvdpi-v4/common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_common_plus_signin_btn_text_dark_normal.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xhdpi-v4/common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-tvdpi-v4_common_google_signin_btn_icon_dark_focused.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-tvdpi-v4/common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-tvdpi-v4_common_google_signin_btn_icon_light_disabled.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-tvdpi-v4/common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_common_plus_signin_btn_text_light_pressed.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-mdpi-v4/common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_common_plus_signin_btn_icon_dark_normal.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_plus_signin_btn_text_dark_disabled.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_plus_signin_btn_icon_light_disabled.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_plus_signin_btn_icon_dark_focused.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_ic_googleplayservices.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xxhdpi-v4/common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_common_plus_signin_btn_text_dark_normal.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-hdpi-v4/common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark.xml.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-tvdpi-v4_common_google_signin_btn_text_dark_normal.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-tvdpi-v4/common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_text_dark_disabled.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_common_plus_signin_btn_icon_dark_normal.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xhdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_common_plus_signin_btn_text_dark_focused.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-hdpi-v4/common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-tvdpi-v4_common_plus_signin_btn_text_dark_disabled.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-tvdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_plus_signin_btn_text_light_disabled.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xxhdpi-v4/common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-tvdpi-v4_common_plus_signin_btn_icon_dark_pressed.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-tvdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-tvdpi-v4_common_plus_signin_btn_text_dark_normal.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-tvdpi-v4/common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_common_plus_signin_btn_icon_light_disabled.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-mdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_light_pressed.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-tvdpi-v4_common_google_signin_btn_text_dark_disabled.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-tvdpi-v4/common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_icon_light_pressed.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_text_light_focused.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-mdpi-v4/common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_common_plus_signin_btn_text_light_disabled.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-mdpi-v4/common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-tvdpi-v4_common_google_signin_btn_text_light_disabled.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-tvdpi-v4/common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_plus_signin_btn_text_light_normal.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xxhdpi-v4/common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_common_plus_signin_btn_text_dark_focused.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-mdpi-v4/common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_common_plus_signin_btn_icon_dark_pressed.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-tvdpi-v4_common_plus_signin_btn_icon_dark_disabled.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-tvdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_disabled.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-tvdpi-v4_common_plus_signin_btn_text_dark_focused.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-tvdpi-v4/common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_common_plus_signin_btn_icon_light_normal.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xhdpi-v4/common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_common_plus_signin_btn_icon_dark_disabled.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xhdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_text_dark_pressed.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-tvdpi-v4_common_plus_signin_btn_icon_dark_normal.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-tvdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-tvdpi-v4_common_google_signin_btn_icon_dark_normal.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-tvdpi-v4/common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/krishnaraj/Documents/KR/flutter app v1/Flutter_medium/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_common_plus_signin_btn_text_dark_disabled.9.png.flat",
+        "source": "/home/krishnaraj/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/1db1b59d78f48a8af209839e1bcca74a/res/drawable-xhdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png"
+    }
+]

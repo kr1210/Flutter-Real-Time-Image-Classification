@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\flutter app v1\\flutter_realtime_detection-master\\build\\firebase_face_contour\\intermediates\\res\\merged\\release\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\krishna raj\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\38f1df1989fe83aa66e3eedd142f7054\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\flutter app v1\\flutter_realtime_detection-master\\build\\firebase_face_contour\\intermediates\\res\\merged\\release\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\krishna raj\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\38f1df1989fe83aa66e3eedd142f7054\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\flutter app v1\\flutter_realtime_detection-master\\build\\firebase_face_contour\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\krishna raj\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\38f1df1989fe83aa66e3eedd142f7054\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\flutter app v1\\flutter_realtime_detection-master\\build\\firebase_face_contour\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\krishna raj\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\38f1df1989fe83aa66e3eedd142f7054\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\flutter app v1\\flutter_realtime_detection-master\\build\\firebase_face_contour\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\krishna raj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\b11c7c502e4fafb45d7f7f8be3fe0238\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\flutter app v1\\flutter_realtime_detection-master\\build\\firebase_face_contour\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\krishna raj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\b11c7c502e4fafb45d7f7f8be3fe0238\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\flutter app v1\\flutter_realtime_detection-master\\build\\firebase_face_contour\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\krishna raj\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\38f1df1989fe83aa66e3eedd142f7054\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\flutter app v1\\flutter_realtime_detection-master\\build\\firebase_face_contour\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\krishna raj\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\38f1df1989fe83aa66e3eedd142f7054\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\flutter app v1\\flutter_realtime_detection-master\\build\\firebase_face_contour\\intermediates\\res\\merged\\release\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\krishna raj\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\38f1df1989fe83aa66e3eedd142f7054\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\flutter app v1\\flutter_realtime_detection-master\\build\\firebase_face_contour\\intermediates\\res\\merged\\release\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\krishna raj\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\38f1df1989fe83aa66e3eedd142f7054\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\flutter app v1\\flutter_realtime_detection-master\\build\\firebase_face_contour\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\krishna raj\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\38f1df1989fe83aa66e3eedd142f7054\\res\\layout\\notification_template_big_media_narrow.xml"
+    }
+]
