@@ -1,4 +1,4 @@
-For details: 
+For details: https://medium.com/@krishnarajr319/real-time-image-classification-on-android-using-flutter-tflite-3437343f01b7
 
 
 
